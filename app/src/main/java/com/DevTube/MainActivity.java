@@ -194,7 +194,7 @@ public class MainActivity extends AppCompatActivity {
             super.onBackPressed();
         }
     }
-
+//i am comment
     private boolean isRedirectUrl(String url) {
         // Check if the URL matches the redirect URL pattern
         return url.startsWith("https://devtube-beec1.firebaseapp.com/__/auth/handler");
