@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DevTube</string>
+    <string name="default_web_client_id">128818830117-k4v1o940ndo02bsfr5ulvqohnlo5gctu.apps.googleusercontent.com</string>
 </resources>
